@@ -1,7 +1,7 @@
 Complete README.md
 <p align="center">
 
-PUT IMAGE HERE — PROJECT BANNER
+![Home Page](./p1.png)
 
 </p>
 
