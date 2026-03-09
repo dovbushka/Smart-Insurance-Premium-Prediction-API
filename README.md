@@ -61,7 +61,7 @@ This project demonstrates an **end-to-end ML workflow**, including:
 
 # 🎯 Demo
 
-PUT IMAGE HERE — APPLICATION SCREENSHOT
+![Home Page](./p2.png)
 
 ### Example Input
 
